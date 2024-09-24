@@ -19,7 +19,7 @@
     "node-static": "^0.7.10",
     "puppeteer": "^1.4.0",
     "rimraf": "^2.6.2",
-    "rollup": "^0.59.4",
+    "rollup": "^3.29.5",
     "uglify-es": "^3.3.9",
     "workbox-cli": "^4.1.0"
   }
